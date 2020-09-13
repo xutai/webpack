@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'MyFont';
+    src: 
+    url('./myFont.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'MyFont';
+    background: url('./halper.jpg');
+
+}
+
+
+
+/* http://xutai.xyz/resume/halper.woff2 */
